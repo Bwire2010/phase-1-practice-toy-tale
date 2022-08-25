@@ -37,6 +37,10 @@ body {
   height: 12rem;
   width: auto;
 }
+img{
+  width:12rem;
+  height: 10rem;
+}
 
 button {
   position: relative;
